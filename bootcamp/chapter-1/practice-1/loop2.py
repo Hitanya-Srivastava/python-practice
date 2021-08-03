@@ -1,4 +1,4 @@
-# Iterating over a list
+# Iterating over a list.
 
 print("List Iteration")
 l = ["tuli", "is", "smart"]
