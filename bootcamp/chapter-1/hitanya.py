@@ -18,5 +18,8 @@ print(f'The name of the book is {book}, it has {pages} pages, author of the book
 print(f'The name of the book is {book!r}, it has {pages!r} pages, author of the book is {author!r}')
 
 
+print('The name of the book is Ikigai, it has 208 pages, and the author of the book is Hector Gracia')
+
+
 
 
