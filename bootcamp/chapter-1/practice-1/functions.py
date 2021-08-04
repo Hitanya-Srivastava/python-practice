@@ -31,7 +31,7 @@ print(square_value(-9))
 def myFun(x):
     x[0] = 10
 
-lst = [11, 12, 13, 14, 15]
+lst = [11, 12, 14, 15, 16]
 myFun(lst)
 
 print(lst)
